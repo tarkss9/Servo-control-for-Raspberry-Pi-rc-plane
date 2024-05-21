@@ -1,4 +1,4 @@
-import pigpio # http://abyz.co.uk/rpi/pigpio/python.html
+import pigpio 
 from gpiozero import Servo
 from gpiozero.pins.pigpio import PiGPIOFactory
 from time import sleep
